@@ -125,7 +125,7 @@ P1 6501 PICKED_UP
 Free lockers: 3
 ```
 
-**Content of parcels.csv:** P1,PICKED_UP
+Content of parcels.csv: P1,PICKED_UP
 
 ## Task 4. AI-generated poor and good designs
 
